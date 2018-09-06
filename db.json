@@ -989,14 +989,6 @@
       "name" : "Yemen",
       "alpha2_code" : "YE",
       "alpha3_code" : "YEM"
-    }, {
-      "name" : "Zambia",
-      "alpha2_code" : "ZM",
-      "alpha3_code" : "ZMB"
-    }, {
-      "name" : "Zimbabwe",
-      "alpha2_code" : "ZW",
-      "alpha3_code" : "ZWE"
     } ]
   }
 }
