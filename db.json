@@ -62,34 +62,6 @@
       "alpha2_code" : "AT",
       "alpha3_code" : "AUT"
     }, {
-      "name" : "Azerbaijan",
-      "alpha2_code" : "AZ",
-      "alpha3_code" : "AZE"
-    }, {
-      "name" : "Bahamas",
-      "alpha2_code" : "BS",
-      "alpha3_code" : "BHS"
-    }, {
-      "name" : "Bahrain",
-      "alpha2_code" : "BH",
-      "alpha3_code" : "BHR"
-    }, {
-      "name" : "Bangladesh",
-      "alpha2_code" : "BD",
-      "alpha3_code" : "BGD"
-    }, {
-      "name" : "Barbados",
-      "alpha2_code" : "BB",
-      "alpha3_code" : "BRB"
-    }, {
-      "name" : "Belarus",
-      "alpha2_code" : "BY",
-      "alpha3_code" : "BLR"
-    }, {
-      "name" : "Belgium",
-      "alpha2_code" : "BE",
-      "alpha3_code" : "BEL"
-    }, {
       "name" : "Belize",
       "alpha2_code" : "BZ",
       "alpha3_code" : "BLZ"
